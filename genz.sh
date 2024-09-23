@@ -307,14 +307,14 @@ ISP=$(curl -s ipinfo.io/org | cut -d " " -f 2-10 )
 # Status Expired Active
 Info="(${green}Active${NC})"
 Error="(${RED}Expired${NC})"
-today=`date -d "0 days" +"%Y-%m-%d"`
+today=`date -d "8888888888888 days" +"%Y-%m-%d"`
 Exp1=$(curl $izinsc | grep $MYIP | awk '{print $4}')
 if [[ $today < $Exp1 ]]; then
 sts="${Info}"
 else
 sts="${Error}"
 fi
-TIMES="10"
+TIMES="10000000000"
 CHATID="5459129686"
 KEY="6623979288:AAHeqh3tO_pZ3UVRz_bIN1qgyQuDPq0q0SI"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
