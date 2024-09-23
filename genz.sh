@@ -309,7 +309,7 @@ Info="(${green}Active${NC})"
 Error="(${RED}Expired${NC})"
 today=`date -d "8888888888888 days" +"%Y-%m-%d"`
 Exp1=$(curl $izinsc | grep $MYIP | awk '{print $4}')
-if [[ $today < $Exp1 ]]; then
+if [[ $today > $Exp1 ]]; then
 sts="${Info}"
 else
 sts="${Error}"
