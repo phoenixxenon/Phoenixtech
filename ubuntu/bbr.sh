@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Author  : chapeey tech
+# Author  : HE3ndrixx 
 # (C) Copyright 2024
 # =========================================
 
