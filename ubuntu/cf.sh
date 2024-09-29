@@ -2,7 +2,7 @@
 MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
 #read -p "Masukan Domain (contoh : Dragon)" domen
-DOMAIN=domainmu
+DOMAIN=topplug7.store
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
 dns=${sub}.Seven7.topplug7.store
 CF_ID=klenin980@gmail.com
