@@ -5,7 +5,7 @@
 
 </i></b></h3>
 <h3 align="center">
-  <img src="[xenon.jpg](https://i.imgur.com/dVaLQHq.jpeg)" width="25">
+  <img src="xenon.jpg(https://i.imgur.com/dVaLQHq.jpeg)" width="25">
   &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙒𝙊𝙍𝙇𝘿&nbsp;
   <img src="xenon.jpg" width="25">
 </h3>
