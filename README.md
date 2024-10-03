@@ -7,7 +7,7 @@
 <h3 align="center">
   <img src="https://i.imgur.com/Gw7jtD0.jpeg" width="25">
   &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙒𝙊𝙍𝙇𝘿&nbsp;
-  <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25">
+  <img src="xenon.jpg" width="25">
 </h3>
 <img align="center" alt="line" src="https://i.imgur.com/X5UFFab.jpeg">
 
