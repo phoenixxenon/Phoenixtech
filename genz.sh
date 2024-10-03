@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » 🗽🥷🎮🧑‍💻🔫Cyberpunk🥷🧑‍💻🗽TOpPLUG
-# Email      » tuffgamer65@gmail.com
-# telegram   » https://t.me/T_OpPLUG
+# Develovers » 🗽🥷🎮🧑‍💻🔫Xenon🥷🧑‍💻🗽PHOENIXTECH
+# Email      » mghosidanco@gmail.com
+# telegram   » https://t.me/xenonlo
 # whatsapp   » wa.me/+254705470210
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🧑‍💻🏴‍☠️🥷🗽 TOpPLUG script 🧑‍💻🏴‍☠️🥷🗽
+# 🧑‍💻🏴‍☠️🥷🗽 XENON script 🧑‍💻🏴‍☠️🥷🗽
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -321,7 +321,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Cloud cyberpunk STORE</b>
+<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Xenon phoenix STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -331,10 +331,10 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Cloud cyberpunk STORE</b>
+<b>WELCOME TO ⛷️🏄☣️🐼🗽♾️🔫🎮🗽🥸🥷🏴‍☠️🧑‍💻🏂☁️☁️☁️☁️🛸🛸🛸🛸🛸🛸🛸🛸🛸☁️☁️☁️☁️☁️🛸🛸🛸🛸⛽⛽⛽⛽ Xenon phoenix STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+254112386921"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+254705470210"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
