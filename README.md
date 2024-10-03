@@ -9,7 +9,7 @@
   &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 PHOENIXTECH 𝙒𝙊𝙍𝙇𝘿 &nbsp;
   <img src="https://raw.githubusercontent.com/phoenixxenon/Phoenixtech/main/xenon.jpg" width="25"> 
 </h3>
-<img align="center" alt="line" src="https://i.imgur.com/X5UFFab.jpeg">
+<img align="center" alt="line" src="https://raw.githubusercontent.com/phoenixxenon/Phoenixtech/main/xenon.jpg">
 
 </p>
 
