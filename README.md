@@ -12,6 +12,7 @@
 <img align="center" alt="line" src="https://raw.githubusercontent.com/phoenixxenon/Phoenixtech/main/xenon.jpg">
 
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+PIRATES🏴‍☠️🥷🗽🧑‍💻🏂🐼🏄⛷️🌊;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+EXIST;YOU+ARE+PIRATES+;𝙒𝙀+ARE+COMMUNITY+BIG VILLA)](https://git.io/typing-svg)
 
