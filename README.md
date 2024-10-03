@@ -5,14 +5,12 @@
 
 </i></b></h3>
 <h3 align="center">
-  <img src="xenon.jpg(https://i.imgur.com/dVaLQHq.jpeg)" width="25">
-  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 PHOENIXTECH 𝙒𝙊𝙍𝙇𝘿&nbsp;
-  <img src="xenon.jpg" width="25">
+  <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
+  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 PHOENIXTECH 𝙒𝙊𝙍𝙇𝘿 &nbsp;
+  <img src="https://raw.githubusercontent.com/phoenixxenon/Phoenixtech/main/xenon.jpg" width="25"> 
 </h3>
 <img align="center" alt="line" src="https://i.imgur.com/X5UFFab.jpeg">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=XENON-𝐓𝐄𝐂𝐇" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+PIRATES🏴‍☠️🥷🗽🧑‍💻🏂🐼🏄⛷️🌊;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+EXIST;YOU+ARE+PIRATES+;𝙒𝙀+ARE+COMMUNITY+BIG VILLA)](https://git.io/typing-svg)
